@@ -2,7 +2,7 @@
 
 #Changes
 1. Menu Side and Home Page convert from code to storyboard with auto layout
-2. Changes from Google Map to Apple Mapkit
+2. Change from Google Map to Apple Mapkit
 
 #How to install
 
